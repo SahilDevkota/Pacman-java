@@ -39,5 +39,5 @@ This project is a recreation of the classic Pac-Man game where the player guides
 
 - This project is for **learning purposes**. You can add new features such as sound and animations, different level of maps, and different level of difficulty.
 
-# Developed by: Sahil Bdr. Devkota
-# Github: (https://github.com/SahilDevkota)
+## Developed by: Sahil Bdr. Devkota
+## Github: (https://github.com/SahilDevkota)
