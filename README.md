@@ -2,7 +2,7 @@
 
 
 
-![Displays the picture of Pac-Man game](image.png)
+![Displays the picture of Pac-Man game](PacMan.png)
 
 
 
