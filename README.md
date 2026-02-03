@@ -12,7 +12,7 @@
 Pac-Man game built in **Java** using **Swing**.
 This project is a recreation of the classic Pac-Man game where the player guides Pac-Man to eat all the dots without colliding with ghosts.
 
-# Features
+## Features
 
 - Move Pac-Man using **arrow keys**.
 - Pause and Resume the game using **P** and **S** keys.
